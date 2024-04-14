@@ -1,4 +1,4 @@
-
+<h2 align="center">Sachet Subedi</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scht001" alt="scht001" /></a> </p>
 
