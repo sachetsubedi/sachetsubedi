@@ -5,7 +5,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=SCHT001&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/scht001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/scht001) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
 (https://instagram.com/sachet_____) 
 
 # 💻 Tech Stack:
