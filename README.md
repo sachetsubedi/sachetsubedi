@@ -1,5 +1,9 @@
 ## Sachet Subedi
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sachetsubedi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/scht001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachet_____) 
 
@@ -11,7 +15,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sachetsubedi&theme=highcontrast&hide_border=true)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sachetsubedi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
