@@ -1,4 +1,4 @@
-## Sachet Subedi
+# Sachet Subedi
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sachetsubedi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
